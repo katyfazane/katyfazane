@@ -6,14 +6,28 @@ E ando explorando programação, criando jogos, mexendo com lógica e inventando
 
 Entre uma aula e outra, estou sempre aprendendo algo novo e testando ferramentas digitais que deixam o ensino mais interativo e criativo.
 
+☕️💻 "Amo duas coisas na vida: código limpo e café forte. Se o código não compila, pelo menos o café me consola".
+
 📍 Alagoas, Brasil
+
+
 📧 katyfazane@gmail.com 
+
+
 💡 Educação, tech e um pouquinho de caos criativo.
+
+
+☕ + 👩‍💻 = 💡
+Sem café, até o console.log me julga.
+
+
 
 Estou aprendendo
 <div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img   loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"   width="40"   height="40"   alt="Python logo"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo"/>
+<img   loading="lazy"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"   width="40"   height="40"   alt="Python logo"/>
+<img   loading="lazy"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"   width="40"   height="40"   alt="Java logo"/>
+
 </div>
 
  <div>
@@ -29,4 +43,6 @@ Contatos:
 <a href = "katyfazane@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/katisshaline-fazane-santos-96368790" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
           

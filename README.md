@@ -45,4 +45,21 @@ Contatos:
 </div>
 
 
+<a href="https://www.youtube.com/@katyfazane4441" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://instagram.com/katyfazane" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:katyfazane@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/katisshaline-fazane-santos-96368790" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
           
